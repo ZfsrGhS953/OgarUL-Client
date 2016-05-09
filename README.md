@@ -7,3 +7,7 @@ NOTE: this doesnt include the client files
 1. Put client files in the repo folder
 2. run npm install after cd-ing into the repo
 3. run sudo node index.js
+
+
+#### Why it doesnt have client files
+Because of Moneyclip loving their Money
