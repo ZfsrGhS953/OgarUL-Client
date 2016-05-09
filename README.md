@@ -11,3 +11,6 @@ NOTE: this doesnt include the client files
 
 #### Why it doesnt have client files
 Because of Moneyclip loving their Money
+
+### Client files
+Get them from somewhere
